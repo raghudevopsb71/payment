@@ -1,2 +1,3 @@
 component: payment
 params: "CART_HOST:cart,CART_PORT:8080,USER_HOST:user,USER_PORT:8080,AMQP_HOST:prod.payment.amqp_host,AMQP_USER:prod.rabbitmq.amqp_user,AMQP_PASS:prod.rabbitmq.amqp_pass"
+env: prod
